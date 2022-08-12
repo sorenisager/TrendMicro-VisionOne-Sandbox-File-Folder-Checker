@@ -69,7 +69,7 @@ $RunnerVersion = "0.1"
 
 #----------------------------------------------------------[Declarations]----------------------------------------------------------
 
-$GlobalConfiguration = "https://github.com/sorenisager/VisionOne-Sandbox-Powershell-Automater/blob/main/Webconfig.json"
+$GlobalConfiguration = "https://github.com/sorenisager/TrendMicro-VisionOne-Sandbox-File-Folder-Checker/blob/main/Webconfig.json"
 $DefaultWorkingDirectory = "$($env:ProgramData)\TrendMicroVisionOneSandBoxScanner"
 $ConfigurationFile = "$($DefaultWorkingDirectory)\ConfigurationFile.json"
 $global:DefaultLogFile = "$($DefaultWorkingDirectory)\Log.txt"
